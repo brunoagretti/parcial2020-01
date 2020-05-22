@@ -1,8 +1,5 @@
 package isi.died2020.parcial01.ejercicio02.dominio;
 
-import java.time.LocalDate;
-import java.util.List;
-
 public class Inscripcion {
 	private static Integer ID_GENERATOR=0;
 
@@ -74,4 +71,3 @@ public class Inscripcion {
 	
 	
 }
-s
