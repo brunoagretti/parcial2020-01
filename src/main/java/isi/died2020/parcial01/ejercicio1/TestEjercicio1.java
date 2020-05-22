@@ -37,6 +37,7 @@ public class TestEjercicio1 {
 		
 		assertTrue(rs1.equals(generado.get(0))); //defini el metodo equals para ReciboSueldo
 		assertTrue(rs2.equals(generado.get(1))); //no logro hacer aprobar el test, no me queda mas tiempo
+					// al final lo pude hacer andar (me olvide de que el numero del mes es uno menos!!!!!)
 
 
 	}
